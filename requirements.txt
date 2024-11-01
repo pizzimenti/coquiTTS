@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Coqui TTS library for text-to-speech conversion
+TTS
+
+# Sound playback library
+sounddevice
+
+# Any additional library dependencies can be added here as required
